@@ -1,0 +1,4 @@
+  SDL_DestroyRenderer(gRenderer);
+    SDL_DestroyWindow(gWindow);
+    SDL_Quit();
+}
